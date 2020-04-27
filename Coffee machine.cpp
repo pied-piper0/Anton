@@ -2,7 +2,6 @@
 #include <fstream>
 #include <string>
 #include <vector>
-//ACCOUNTS DON'T UPDATE
 using namespace std;
 
 fstream user_data("user_data.bin", ios::out|ios::in);
